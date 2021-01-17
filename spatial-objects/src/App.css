@@ -1,0 +1,13 @@
+.App-body{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+header,.loading,.error{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+    background-color: #ececff;
+}
